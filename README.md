@@ -3,6 +3,12 @@ kaggles3e1
 
 Ronak and Lovkush learning Data Science. First project is to try Kaggle Season 3 Episode 1.
 
+Setup Instructions
+------------
+- Clone this repo locally
+- Create a new conda environment with python and activate it, `conda create -n kaggles3e1 python` then `conda activate kaggles3e1`
+- install requirements. `pip install -r requirements.txt`
+
 Project Organization
 ------------
 
